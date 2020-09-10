@@ -8,7 +8,7 @@ var dotItem = document.getElementsByClassName("dot-item");
 var timer;
 var count = 0;
 // 定义图片数组
-var arr = ['./img/bg_social.jpg', './img/bg_like.jpg', './img/bg_synchro.jpg']
+var arr = ['./img/imgOne.jpg', './img/imgTwo.webp', './img/imgThree.webp','./img/imgFour.webp','./img/imgFive.webp','./img/imgSix.webp']
 // 图片定时轮播
 showtime();
 
