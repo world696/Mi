@@ -126,13 +126,13 @@
 			} */
 .icon-left {
 	position: absolute;
-	left: -449px;
+	left: -387px;
 	background: url(../img/icon-slides.png) no-repeat -84px 50%;
 }
 
 .icon-right {
 	position: absolute;
-	right: -666px;
+	right: -605px;
 	background: url(../img/icon-slides.png) no-repeat -125px 50%;
 }
 
