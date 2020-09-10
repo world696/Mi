@@ -50,7 +50,7 @@ function leftArrow() {
 	count--;
 	// console.log(count);
 	if (count < 0) {
-		count = 2;
+		count = 5;
 	}
 	img.setAttribute('src', arr[count]);
 	checkActive();
@@ -59,7 +59,7 @@ function leftArrow() {
 function rightArrow() {
 	count++;
 	// console.log(count);
-	if (count > 2) {
+	if (count > 5) {
 		count = 0;
 	}
 	img.setAttribute('src', arr[count]);
